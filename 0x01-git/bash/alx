@@ -1,4 +1,3 @@
 #!/bin/bash:wq
 
-echo "ALX school is coll!"
-echo "School"
+echo "ALX school"
