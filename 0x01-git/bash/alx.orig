@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD
+echo "ALX school is coll!"
+=======
+echo "School"
+>>>>>>> update_script
